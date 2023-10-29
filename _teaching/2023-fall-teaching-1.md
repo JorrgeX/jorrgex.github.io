@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant for Applied Probability and Statistics, 2023 Fall"
+title: "Teaching Assistant for Applied Probability and Statistics 2023 Fall"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-fall-teaching-1
@@ -8,19 +8,8 @@ date: 2023-09-01
 location: "College Park, MD"
 ---
 
-2023 Fall Applied Probability and Statistics course 
+2023 Fall, Applied Probability and Statistics course (STAT 400)
 
-Heading 1
+Description
 ======
-
-body 1
-
-Heading 2
-======
-
-body 2
-
-Heading 3
-======
-
-body 3
+STAT 400 is an introductory course to probability, the mathematical theory of randomness, and to statistics, the mathematical science of data analysis and analysis in the presence of uncertainty. Applications of statistics and probability to real world problems are also presented.
