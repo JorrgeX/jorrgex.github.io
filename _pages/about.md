@@ -16,7 +16,7 @@ I hold dual B.S. degrees in Computer Science as well as Meteorology and Atmosphe
 Research Interest
 ------
 
-With a diverse background, I am interested in using numerical methods to create or solve physical problems.
+With a diverse background, I am interested in using numerical methods to solve physical problems.
 Currently, I am interested in areas like data assimilation, numerical analysis, and machine learning.
 
 

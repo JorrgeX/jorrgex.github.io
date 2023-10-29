@@ -1,5 +1,5 @@
 ---
-title: "Learning Assistant for Data Structures and Algorithms 2023 Spring"
+title: "Learning Assistant for Data Structures and Algorithms, 2023 Spring"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-spring-teaching-1

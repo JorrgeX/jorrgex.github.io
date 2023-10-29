@@ -1,5 +1,5 @@
 ---
-title: "Learning Assistant for Data Structures and Algorithms 2022 Fall"
+title: "Learning Assistant for Data Structures and Algorithms, 2022 Fall"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-fall-teaching-1
