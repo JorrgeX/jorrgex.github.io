@@ -8,13 +8,4 @@ date: 2022-09-01
 location: "University Park, PA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+2022 Fall Data Structures and Algorithms course 
